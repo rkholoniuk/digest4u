@@ -1,0 +1,3 @@
+.venv/
+items.sqlite-wal
+items.sqlite-shm

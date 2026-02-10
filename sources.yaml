@@ -1,0 +1,54 @@
+rss:
+  - name: "Medium @gwrx2005"
+    type: "rss"
+    url: "https://medium.com/feed/@gwrx2005"
+
+  - name: "ERC-8004 contracts releases"
+    type: "github_releases"
+    repo: "erc-8004/erc-8004-contracts"
+
+  - name: "OpenClaw skills commits"
+    type: "github_commits"
+    repo: "BankrBot/openclaw-skills"
+    branch: "main"
+
+  - name: "OpenAI: Responses API blog"
+    type: "rss"
+    url: "https://openai.com/index/rss.xml"
+
+  - name: "Microsoft AI Blog"
+    type: "rss"
+    url: "https://blogs.microsoft.com/ai?feed=rss2"
+
+  - name: "Microsoft Research Blog"
+    type: "rss"
+    url: "https://www.microsoft.com/en-us/research/feed/"
+
+  - name: "Microsoft Research: Biomedical ML"
+    type: "rss"
+    url: "https://www.microsoft.com/en-us/research/theme/biomedical-ml/feed/"
+
+  - name: "Google Blog"
+    type: "rss"
+    url: "https://blog.google/rss/"
+
+  - name: "AWS News Blog"
+    type: "rss"
+    url: "https://aws.amazon.com/blogs/aws/feed/"
+
+  - name: "AWS Machine Learning Blog"
+    type: "rss"
+    url: "https://aws.amazon.com/blogs/machine-learning/feed/"
+
+# Keyword hints used for bucketing/ranking (lightweight, adjustable)
+keywords:
+  - "ERC-8004"
+  - "agent registry"
+  - "reputation"
+  - "agent marketplace"
+  - "A2A"
+  - "x402"
+  - "TEE"
+  - "MCP"
+  - "OpenClaw"
+  - "Moltbot"
