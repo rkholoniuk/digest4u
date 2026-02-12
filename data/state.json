@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-02-11T07:29:17.715272+00:00",
+  "last_run": "2026-02-12T07:28:54.497309+00:00",
   "seen": {
     "00e1761a33dc233492978341858fb61a0e55a4fe2b12eb31d2d8d253456d99ba": {
       "first_seen": "2026-02-10T22:01:19.996066+00:00",
@@ -57,6 +57,10 @@
       "first_seen": "2026-02-10T21:11:56.009518+00:00",
       "url": "https://medium.com/@gwrx2005/agentic-banking-how-ai-systems-and-tokenized-compliance-are-restructuring-investment-and-30f61e33b293?source=rss-6552dfe1e986------2"
     },
+    "20aaedb3a43fec5c26f8451a76b260dae4989b98e7b1aba8187619cfd6b1fa1c": {
+      "first_seen": "2026-02-12T07:28:30.992463+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/"
+    },
     "20f4832a151875ffbe206833ed3a749804497746132c87e8e0ee59e358a5314d": {
       "first_seen": "2026-02-10T22:01:19.996129+00:00",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-reinvent-keynote-recap-on-demand-videos-and-more-december-8-2025/"
@@ -64,6 +68,10 @@
     "230c548404e3d29e0d30e23f3be6ab7be0e1795fca9ed3294ab885710d4ee3e0": {
       "first_seen": "2026-02-10T22:01:19.996165+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/scale-llm-fine-tuning-with-hugging-face-and-amazon-sagemaker-ai/"
+    },
+    "24facabd91b28b34eaabd8c5115a0ef153284131527d58b632b174f2559471db": {
+      "first_seen": "2026-02-12T07:28:30.992467+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/swann-provides-generative-ai-to-millions-of-iot-devices-using-amazon-bedrock/"
     },
     "28ad8566c27ad997a7611b5be4e6100e7bc52c8b224fa32b4f3c4419c587d122": {
       "first_seen": "2026-02-10T21:11:56.009680+00:00",
@@ -129,6 +137,10 @@
       "first_seen": "2026-02-10T21:11:56.009612+00:00",
       "url": "https://github.com/BankrBot/openclaw-skills/commit/f04ede34b2f6884258a6fd764ca81a3f1ab961d8"
     },
+    "3bd9f1fa591e7b17838f956dab1bd19f61dd3d65be390c5f54199ccaab45a964": {
+      "first_seen": "2026-02-12T07:28:30.992441+00:00",
+      "url": "https://blog.google/products/ads-commerce/is-your-campaign-structure-holding-you-back-in-the-era-of-ai/"
+    },
     "3ddc74f1bdc7488db4dfd6ffe9b2b1e98418a7a386cc861c3f16858acfbee695": {
       "first_seen": "2026-02-10T22:01:19.996132+00:00",
       "url": "https://aws.amazon.com/blogs/aws/improve-model-accuracy-with-reinforcement-fine-tuning-in-amazon-bedrock/"
@@ -156,6 +168,10 @@
     "4aeb16ae454ccf2ae13f6f239242705c98caf557c58354822808b09d5ede8ba5": {
       "first_seen": "2026-02-10T21:11:56.009522+00:00",
       "url": "https://medium.com/@gwrx2005/erc-8004-a-trustless-agent-standard-for-on-chain-ai-in-avalanche-c-chain-4dc1bdad509a?source=rss-6552dfe1e986------2"
+    },
+    "4d131c4945517d9b7482d80d646dfcc9b815878ad2c4645304468187ff9241c1": {
+      "first_seen": "2026-02-12T07:28:30.992459+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/"
     },
     "4d1dcbc1b87a2d68dca4003c81b32f37a6f0b1f754227c7ac0e3cace94cb9444": {
       "first_seen": "2026-02-10T22:01:19.996141+00:00",
@@ -264,6 +280,10 @@
     "8a2a4480e79aa8028f8b368837ab5bc3665f9f9b81282d7a8f2bd1c25ae7f1f5": {
       "first_seen": "2026-02-10T22:01:19.996003+00:00",
       "url": "https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/"
+    },
+    "8aefeb0392cc3063c0b89476f636938793420777786eb86351c58243479487f0": {
+      "first_seen": "2026-02-12T07:28:30.992470+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-linqalpha-assesses-investment-theses-using-devils-advocate-on-amazon-bedrock/"
     },
     "8ca9323a2291cb063128dd4053a0d797f653f4b168f5356c9a66e39f63710030": {
       "first_seen": "2026-02-10T21:11:56.009684+00:00",
@@ -381,6 +401,10 @@
       "first_seen": "2026-02-10T21:11:56.009477+00:00",
       "url": "https://medium.com/@gwrx2005/proposal-for-a-multimodal-multi-agent-system-using-openclaw-81f5e4488233?source=rss-6552dfe1e986------2"
     },
+    "bd2a2f1a96c719c776da8b0c5aaf66cba9707a36396195a7c7b8db656162d295": {
+      "first_seen": "2026-02-12T07:28:30.992446+00:00",
+      "url": "https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/"
+    },
     "bd62857d142c9fd83663dc715598c3f2c529df6b0033d87f861dfa1455671a13": {
       "first_seen": "2026-02-10T22:01:19.995979+00:00",
       "url": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/"
@@ -392,6 +416,10 @@
     "c9108130ff583680bb93575f27eb68045c45cc1a50c6864e8b72309e99d33a9d": {
       "first_seen": "2026-02-10T21:11:56.009560+00:00",
       "url": "https://github.com/BankrBot/openclaw-skills/commit/6fffcc18e21a2ca91e0516594f4429b598173721"
+    },
+    "d127ab6c675100da253148b7fccdc56a38e7dad5dec366b3fd6e8d67d3da3995": {
+      "first_seen": "2026-02-12T07:28:30.992402+00:00",
+      "url": "https://medium.com/@gwrx2005/integrating-erc-8004-trustless-agents-and-openclaw-into-dydx-hyperliquid-lighter-and-uniswap-9bfa6d4b608b?source=rss-6552dfe1e986------2"
     },
     "d51c47fcf70f3b5a3d2d61653008f8989128a81f895d69e1fcdcf3b878c63456": {
       "first_seen": "2026-02-10T22:01:19.996020+00:00",
