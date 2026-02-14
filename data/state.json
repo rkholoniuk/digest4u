@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-02-12T07:28:54.497309+00:00",
+  "last_run": "2026-02-14T07:20:31.256088+00:00",
   "seen": {
     "00e1761a33dc233492978341858fb61a0e55a4fe2b12eb31d2d8d253456d99ba": {
       "first_seen": "2026-02-10T22:01:19.996066+00:00",
@@ -16,6 +16,10 @@
     "08ad0eb13492c53686067e470a2bae6d7ed9f5ee8c91909c08a57819876467ac": {
       "first_seen": "2026-02-10T21:11:56.009656+00:00",
       "url": "https://github.com/BankrBot/openclaw-skills/commit/e13dbbcf40ab6413e3df11f59992a98861b2bb35"
+    },
+    "0991e42b235455a9521918e54adb90f17bade0d9d6acf0b098c27a07f53a6b04": {
+      "first_seen": "2026-02-14T07:19:35.462757+00:00",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-camera-photo-tips-lunar-new-year/"
     },
     "0a3de83c3c8695ec95a5973e01d9b4c297b99f453f363987e0f68f87898dec01": {
       "first_seen": "2026-02-10T21:11:56.009661+00:00",
@@ -141,6 +145,10 @@
       "first_seen": "2026-02-12T07:28:30.992441+00:00",
       "url": "https://blog.google/products/ads-commerce/is-your-campaign-structure-holding-you-back-in-the-era-of-ai/"
     },
+    "3c937ce2d4f92352e6ebf9288ab2ad992a1365db6922936b0f45ef0eb2455bc2": {
+      "first_seen": "2026-02-14T07:19:35.462762+00:00",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-cybersecurity-ai-forum/"
+    },
     "3ddc74f1bdc7488db4dfd6ffe9b2b1e98418a7a386cc861c3f16858acfbee695": {
       "first_seen": "2026-02-10T22:01:19.996132+00:00",
       "url": "https://aws.amazon.com/blogs/aws/improve-model-accuracy-with-reinforcement-fine-tuning-in-amazon-bedrock/"
@@ -156,6 +164,10 @@
     "41808f5be5e5df31778ffe2dcfd727ad9ff4da5efe7ef27ae5ff3cc0fde890f3": {
       "first_seen": "2026-02-10T22:01:19.996081+00:00",
       "url": "https://blog.google/products-and-platforms/products/search/winter-olympics-2026/"
+    },
+    "43643b734ce127e956306563aebd6e238d33357ac4967ae39466203e9a9e94f0": {
+      "first_seen": "2026-02-14T07:19:35.462798+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/ai-meets-hr-transforming-talent-acquisition-with-amazon-bedrock/"
     },
     "43cbc4a3f5d3af514fb9d240893a2f2cf2e2a97354c47a66f0f7624b2ae4ab80": {
       "first_seen": "2026-02-10T22:01:19.996014+00:00",
@@ -193,6 +205,10 @@
       "first_seen": "2026-02-10T21:11:56.009642+00:00",
       "url": "https://github.com/BankrBot/openclaw-skills/commit/fefcf375463a54f969be843156fc720b031df74d"
     },
+    "55009101a9d47d89a5a1c92c1a62cd027baa0805a358cd2dcc0402662e3d343b": {
+      "first_seen": "2026-02-14T07:19:35.462795+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/customize-ai-agent-browsing-with-proxies-profiles-and-extensions-in-amazon-bedrock-agentcore-browser/"
+    },
     "55e21ffdaa16a0fa07345e946147b81baec2fe3264ba63c15e3f603613d8ab05": {
       "first_seen": "2026-02-10T21:11:56.009586+00:00",
       "url": "https://github.com/BankrBot/openclaw-skills/commit/b8cd7ab84236962f4de5480ec6e1787048b03459"
@@ -221,6 +237,10 @@
       "first_seen": "2026-02-10T21:11:56.009577+00:00",
       "url": "https://github.com/BankrBot/openclaw-skills/commit/f93c57ab4e51e609b752c0e5114c048cf51e69a5"
     },
+    "607dfbfc1ae3058605757fe63459737319d9725d9ba7b7639231391031e87470": {
+      "first_seen": "2026-02-14T07:19:35.462801+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-long-running-mcp-servers-on-amazon-bedrock-agentcore-with-strands-agents-integration/"
+    },
     "62c09782a14059fb2e55d3eaad41f5d2ca49117b81be1e3b40cac94fe041d6ff": {
       "first_seen": "2026-02-10T22:01:19.996147+00:00",
       "url": "https://aws.amazon.com/blogs/aws/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/"
@@ -228,6 +248,10 @@
     "665e6730a38e6ea1c81f21819989eb4e6e41a631b1ce5034ee94b37756e183da": {
       "first_seen": "2026-02-10T22:01:19.996087+00:00",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/"
+    },
+    "6a5bcfba13c1b27863346b0b0936b87dd51728d719eb5005ee05f168733d7d63": {
+      "first_seen": "2026-02-14T07:19:35.462736+00:00",
+      "url": "https://github.com/BankrBot/openclaw-skills/commit/66de0a1e3577e23a51b9d4ad029d644f9bd61395"
     },
     "6c14294ab828fd51ccfad5fa412cfe04986eb0e0bd8a4522b4de579840e03348": {
       "first_seen": "2026-02-10T22:01:19.996041+00:00",
@@ -252,6 +276,14 @@
     "71a748f69e0c018e5990cc0edecdc704fb139b87ad883cde3cbcf1fba56b3f76": {
       "first_seen": "2026-02-10T22:01:19.996188+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/a-practical-guide-to-amazon-nova-multimodal-embeddings/"
+    },
+    "720d05f84e1686bbd30bec612d4f5cc7599291fb0e14d6114f99caffb3225cf6": {
+      "first_seen": "2026-02-14T07:19:35.462770+00:00",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/"
+    },
+    "75ed2eff158585b1a32ff7f62f446efb4183ece3388baf87a21734fbc240c899": {
+      "first_seen": "2026-02-14T07:19:35.462777+00:00",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/india-ai-creativity/"
     },
     "76c6444bbe0dc9f852b30f42a45a3f5968cb0fff68e4d275e43abbfd1c86275b": {
       "first_seen": "2026-02-10T22:01:19.996174+00:00",
@@ -300,6 +332,10 @@
     "91179ccb9de3ddc0647c94b027a73532d2b0a7cfe7ecb8e2d891efc91a75d5a6": {
       "first_seen": "2026-02-10T22:01:19.996017+00:00",
       "url": "https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/"
+    },
+    "913ec523b446c2e8d5c8c5d008fb1a0b05ae485001a71ed571863dbacde01955": {
+      "first_seen": "2026-02-14T07:19:35.462754+00:00",
+      "url": "https://blog.google/products-and-platforms/products/education/gemini-features-for-students/"
     },
     "91e4b7d7cb08fdebeaab64dc38390c0259a37e348df96ccd2c7642aa8e9dfb30": {
       "first_seen": "2026-02-10T21:11:56.009564+00:00",
@@ -361,6 +397,10 @@
       "first_seen": "2026-02-10T22:01:19.996006+00:00",
       "url": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/"
     },
+    "a7955cf4a5c21ad3ac4c1e120972691f937f4ee2faf1c4f0fc047e12936b2f75": {
+      "first_seen": "2026-02-14T07:19:35.462766+00:00",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/lunar-new-year-2026-translation-tools/"
+    },
     "a82c71e5833f9088b22a8036cd46301bf73c2b099232f55d47b8c74333bd5e95": {
       "first_seen": "2026-02-10T21:11:56.009599+00:00",
       "url": "https://github.com/BankrBot/openclaw-skills/commit/ee2f12c067bbc6aebf422b86d367648ab16b562f"
@@ -416,6 +456,10 @@
     "c9108130ff583680bb93575f27eb68045c45cc1a50c6864e8b72309e99d33a9d": {
       "first_seen": "2026-02-10T21:11:56.009560+00:00",
       "url": "https://github.com/BankrBot/openclaw-skills/commit/6fffcc18e21a2ca91e0516594f4429b598173721"
+    },
+    "ce39c493e5b633540855c16bd899a74825fec9b2a4f4ab32f6434808a1b615dd": {
+      "first_seen": "2026-02-14T07:19:35.462781+00:00",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/how-were-helping-democracies-stay-ahead-of-digital-threats/"
     },
     "d127ab6c675100da253148b7fccdc56a38e7dad5dec366b3fd6e8d67d3da3995": {
       "first_seen": "2026-02-12T07:28:30.992402+00:00",
@@ -505,9 +549,17 @@
       "first_seen": "2026-02-10T22:01:19.996046+00:00",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/update-on-cma-assessment-of-mobile-ecosystem/"
     },
+    "fd501ec1b2ac7ef94b797a0087f8ece1dded340dd711a1d1ce8ee269dc022eb4": {
+      "first_seen": "2026-02-14T07:19:35.462711+00:00",
+      "url": "https://medium.com/@gwrx2005/holonomic-topological-networks-for-short-horizon-cryptocurrency-price-forecasting-an-empirical-a7c51d72b100?source=rss-6552dfe1e986------2"
+    },
     "fe4cdde51db320559ce50756ad7675fcd7e381a4b7c70d9af3c0309774b4cdec": {
       "first_seen": "2026-02-10T22:01:19.996138+00:00",
       "url": "https://aws.amazon.com/blogs/aws/introducing-checkpointless-and-elastic-training-on-amazon-sagemaker-hyperpod/"
+    },
+    "ffd3867473d08ac916cbafd38bf97394e19155323352a8ba8d5f88391c232f78": {
+      "first_seen": "2026-02-14T07:19:35.462774+00:00",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/"
     }
   }
 }
