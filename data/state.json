@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-02-14T07:20:31.256088+00:00",
+  "last_run": "2026-02-16T07:26:50.589770+00:00",
   "seen": {
     "00e1761a33dc233492978341858fb61a0e55a4fe2b12eb31d2d8d253456d99ba": {
       "first_seen": "2026-02-10T22:01:19.996066+00:00",
@@ -492,6 +492,10 @@
     "e16424cbdbc0c67f4e4046c12341895809c2c135a4e1c60737051ed26792b05d": {
       "first_seen": "2026-02-10T22:01:19.996064+00:00",
       "url": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/"
+    },
+    "e5b881a3d2bec63f36b0ebb1e75302045ade1ac4add06fa92cedb7e60d950c50": {
+      "first_seen": "2026-02-16T07:26:46.749025+00:00",
+      "url": "https://medium.com/@gwrx2005/mechanism-design-incentive-schemes-and-parameter-optimization-in-decentralized-finance-a-unified-3a1b7a06f1f3?source=rss-6552dfe1e986------2"
     },
     "e811544b3fcab12e8f37c6881b33ae7ab1588c2b6b2644baa149f66933a79747": {
       "first_seen": "2026-02-10T22:01:19.996168+00:00",
