@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-25T08:37:32.542719+00:00",
+  "last_run": "2026-06-01T08:56:03.515767+00:00",
   "seen": {
     "00157915dd84a6c445e9ed6f73ae88265c2abecfc54a17e2b8ef7a7f24fd871b": {
       "first_seen": "2026-03-02T07:23:32.916440+00:00",
@@ -28,6 +28,10 @@
     "00f0866cf81249e5053c6a591d1e449747ebdf99b7075d346e2a0451f770b8b3": {
       "first_seen": "2026-03-02T07:23:32.916304+00:00",
       "url": "https://github.com/BankrBot/skills/commit/a6a35f1eee86005ff15f282dad3f244b95845064"
+    },
+    "01dde1132f21d77fb1b585f3f14c238cf23c10e34bbc79ce5dcca7274d129446": {
+      "first_seen": "2026-06-01T08:52:45.855413+00:00",
+      "url": "https://blog.google/products/ads-commerce/ads-decoded-finale/"
     },
     "01eafeedc87b569c5cd6038eb4cb055e46fb42a3133fd30e798b2a79d785406d": {
       "first_seen": "2026-03-02T07:23:32.916405+00:00",
@@ -145,6 +149,10 @@
       "first_seen": "2026-02-10T21:11:56.009661+00:00",
       "url": "https://github.com/BankrBot/openclaw-skills/commit/5e6b1ed2256ab9a52edb4f0936019cb4590ee9a8"
     },
+    "0a5f7a90f69b54fc217790245d024728de4737445415cac1ba1d1645794956ae": {
+      "first_seen": "2026-06-01T08:52:45.855475+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/"
+    },
     "0aeb251dcce13b56c4c3e33351ec5658c2ce1b074654cc28f629ac65f56add5e": {
       "first_seen": "2026-02-10T21:11:56.009688+00:00",
       "url": "https://github.com/BankrBot/openclaw-skills/commit/a03482c8d3e1eb7fe75bc4a5c1fb62bc51b9f11a"
@@ -233,6 +241,10 @@
       "first_seen": "2026-03-30T08:20:59.286787+00:00",
       "url": "https://github.com/BankrBot/skills/commit/fae010e5cec5c76f444cdaca7ee384d549653393"
     },
+    "0f5306777557e7f98b81184b0cf5e78995a2e225e8398cd05a8cbd7979a9cb56": {
+      "first_seen": "2026-06-01T08:52:45.855458+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/"
+    },
     "0f882168d59a80ebb44269538725d76d5b69b7a4dc924f07aa1a09145e7d0137": {
       "first_seen": "2026-04-27T07:49:33.348991+00:00",
       "url": "https://github.com/BankrBot/skills/commit/68be23781838ae1ac317fc6f4e7d8275c52cd754"
@@ -277,6 +289,10 @@
       "first_seen": "2026-02-23T07:26:58.431221+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/"
     },
+    "12911fe42e3745933ad7212b06ee5328c40cc819c5459de0b041a9e8f69ab29b": {
+      "first_seen": "2026-06-01T08:52:45.855324+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/f73f09eccbc919e578f2a2938a9738dc2013ebbf"
+    },
     "12d64f0bf037b34d59b99a50eb549bfef50f826ececab882390c6149382f0e15": {
       "first_seen": "2026-03-09T07:24:48.491810+00:00",
       "url": "https://medium.com/@gwrx2005/quantum-communication-risk-modeling-for-bitcoin-oriented-security-infrastructure-d80b64bea386?source=rss-6552dfe1e986------2"
@@ -284,6 +300,10 @@
     "13346ebb566721ea189471d23bbd94b550330865f66765cbb4285f921aca8e52": {
       "first_seen": "2026-04-13T07:37:22.377406+00:00",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/"
+    },
+    "1351a5f7df80882cdb78a5a3d86514bf760b2db450052b217e0c4ed170c0660c": {
+      "first_seen": "2026-06-01T08:52:45.855439+00:00",
+      "url": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/"
     },
     "13713837be861127730b864df735daf87b7d716c96edb95164f7feba154776d2": {
       "first_seen": "2026-03-09T07:24:48.492001+00:00",
@@ -317,6 +337,10 @@
       "first_seen": "2026-04-13T07:37:22.377500+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/from-isolated-alerts-to-contextual-intelligence-agentic-maritime-anomaly-analysis-with-generative-ai/"
     },
+    "15c500430c9125760162425ad7ed56f786294721cb1595a8c37227483de54352": {
+      "first_seen": "2026-06-01T08:52:45.855505+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes/"
+    },
     "15e75b206c78b4d8858fe72b583f38294e9b5023997c903b684e9216607a7f56": {
       "first_seen": "2026-03-30T08:20:59.286867+00:00",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/how-google-does-it-security-series/"
@@ -337,9 +361,17 @@
       "first_seen": "2026-05-25T08:33:08.488885+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/building-multi-tenant-agents-with-amazon-bedrock-agentcore/"
     },
+    "16a8a3ebe424432a7d56708fb97da7b0cfee5126196ef2c2c8dec4b730578358": {
+      "first_seen": "2026-06-01T08:52:45.855466+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/"
+    },
     "16fc935264a6d7cbaa0902070bbe270721209b0e109d28a2eab38439384a37ba": {
       "first_seen": "2026-04-13T07:37:22.377436+00:00",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/"
+    },
+    "1701ccb232e43a524f71748909a067115e8954245fb1f048003a615598dbaaa1": {
+      "first_seen": "2026-06-01T08:52:45.855348+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/4c4f0bc44d7d417c83d30a880cf4bdc6aafa378e"
     },
     "171135238fc80a53b950b6663285c93749f37614fb8fe969325859bfed069880": {
       "first_seen": "2026-02-10T22:01:19.996159+00:00",
@@ -353,6 +385,10 @@
       "first_seen": "2026-05-04T07:58:13.665593+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/build-strands-agents-with-sagemaker-ai-models-and-mlflow/"
     },
+    "1845d9cdc753bafc214f73cfe3c123109dbd89e28742f97099464cfe1e28c8a8": {
+      "first_seen": "2026-06-01T08:52:45.855321+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/06fea823be62017bea27623179bb6b33b9b5f053"
+    },
     "185b16fa3b230d1873fcc6e452b130c6f9f2bb93a3cf317d0865887b9f8aa773": {
       "first_seen": "2026-03-02T07:23:32.916282+00:00",
       "url": "https://github.com/BankrBot/skills/commit/66de0a1e3577e23a51b9d4ad029d644f9bd61395"
@@ -360,6 +396,10 @@
     "18876451943b1f23ee0007dcb0054c1d21b0939f549f647814b29c158129774a": {
       "first_seen": "2026-03-09T07:24:48.491982+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/building-custom-model-provider-for-strands-agents-with-llms-hosted-on-sagemaker-ai-endpoints/"
+    },
+    "188890a71660c66d5b35342c85f45ff91ec2948796d9624e57e87178f86e1583": {
+      "first_seen": "2026-06-01T08:52:45.855294+00:00",
+      "url": "https://medium.com/@gwrx2005/institutional-capital-allocation-in-digital-assets-a-comparative-analysis-of-the-top-ten-6ff5364a1a3a?source=rss-6552dfe1e986------2"
     },
     "192f7502ad207bb76509f70c8126c35baac562c8392a5e9ca55135f3ae238797": {
       "first_seen": "2026-05-11T08:12:08.702401+00:00",
@@ -420,6 +460,10 @@
     "1dfa2b3874690f96623183d8a9d7175eae575c1669c005815841f41c9acae3ff": {
       "first_seen": "2026-05-18T08:23:13.464125+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/"
+    },
+    "1dff4f7318d18e972bb3db8ecab0f5c84f270dc49d2995eeb217a907aa27244b": {
+      "first_seen": "2026-06-01T08:52:45.855490+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/"
     },
     "1f2d24e5eca1a1969bda788521a7fb4974f07abd6c8ab19e43cc2cad4b8bcf73": {
       "first_seen": "2026-04-06T08:21:26.892655+00:00",
@@ -697,6 +741,14 @@
       "first_seen": "2026-02-10T22:01:19.996206+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/how-clarus-care-uses-amazon-bedrock-to-deliver-conversational-contact-center-interactions/"
     },
+    "2d99603e7c9c8a950e8e7ca8f40ab6b6d11baaf4e591e90c956f8bc38f68b2a6": {
+      "first_seen": "2026-06-01T08:52:45.855370+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/30b2851e5cd6c0275ea18e36f0929ab4e89185b3"
+    },
+    "2db47cf79554505f9361cb7600b1a78ea8c981ee31416b1097c9bb41a436aaee": {
+      "first_seen": "2026-06-01T08:52:45.855410+00:00",
+      "url": "https://blog.google/products-and-platforms/products/maps/dua-lipa/"
+    },
     "2dbbc5318b6a94908716bbdb0191e1a31286bc1ae3cf229b5a430fd440a1d171": {
       "first_seen": "2026-05-11T08:12:08.702334+00:00",
       "url": "https://blog.google/products-and-platforms/devices/google-nest/home-updates/"
@@ -752,6 +804,18 @@
     "312f926189c57cfe3523c0c137b5ab728bf6b0abdf8975a8a47ff37fd0d231a2": {
       "first_seen": "2026-03-09T07:24:48.492004+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/"
+    },
+    "318d2dbfb4e546f228834044ebbd755948f3c988e3e133b65e89481d512293d3": {
+      "first_seen": "2026-06-01T08:52:45.855499+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/"
+    },
+    "32043281b24eccf22d972180587bee37ad1fbd9a7eb1d8a2b3fa2355b52efc56": {
+      "first_seen": "2026-06-01T08:52:45.855358+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/c03d1ee21c1d825e024560c3c5174074c67a88b7"
+    },
+    "322df1ca0e598aee6674133fc15f8cb05afa38c40932b0f41ae1e3a6769125bf": {
+      "first_seen": "2026-06-01T08:52:45.855472+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/"
     },
     "324d547f95572ea10a3cc95e5ca30b16a2f9b85446e05d40f526737bc2f16985": {
       "first_seen": "2026-05-11T08:12:08.702360+00:00",
@@ -829,6 +893,10 @@
       "first_seen": "2026-05-18T08:23:13.464137+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/"
     },
+    "37ff2c4c3b92c68b76a223891e2f4ea42e1b33ca931ccbba4e0e4530d682457c": {
+      "first_seen": "2026-06-01T08:52:45.855407+00:00",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/"
+    },
     "381e54bcd0ae079bb4e76c9acec52efe91be1d6e1321dd25bc8717dbc542e4ae": {
       "first_seen": "2026-05-04T07:58:13.665459+00:00",
       "url": "https://github.com/BankrBot/skills/commit/484819fb599aa3f34e69dcad1de4df5038f088be"
@@ -836,6 +904,10 @@
     "382cb09d08c3e5702232fe23de39d960187f1e2bb38f9fd4a1a5448e75f56c6d": {
       "first_seen": "2026-03-30T08:20:59.286955+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/"
+    },
+    "38ec0ebdd891b0722075ffd0609f0b4a6cdf5c4ec5476019c8f2a1a1ce1d0498": {
+      "first_seen": "2026-06-01T08:52:45.855461+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws/"
     },
     "390dce51185fadc6e51e0639dd9a4efeb513c50121011b9693646d9bf030a246": {
       "first_seen": "2026-02-10T21:11:56.009573+00:00",
@@ -977,6 +1049,10 @@
       "first_seen": "2026-03-30T08:20:59.286886+00:00",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/"
     },
+    "3f913f46432d92f5810607e5e4cb5a37f5e4f4a63a503bb68be3be4c22f6ccb4": {
+      "first_seen": "2026-06-01T08:52:45.855330+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/bdc335e56eefd3390f47319de4e5ea3ce05e6690"
+    },
     "402092c8d96787b5be75b2980173e86f4bfa29f9b68f947cbe4de69755692314": {
       "first_seen": "2026-05-18T08:23:13.463926+00:00",
       "url": "https://github.com/BankrBot/skills/commit/b89a034b9ff77048eaa8bb3944ea5cbf546135c6"
@@ -1065,6 +1141,10 @@
       "first_seen": "2026-03-30T08:20:59.286975+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/"
     },
+    "44c2c347de72cec41b221f6863b53eca000de40d04ae68777957d583c2d13e3c": {
+      "first_seen": "2026-06-01T08:52:45.855318+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/807ce05cd122bb19b01ef62aaed15a2d94a6e766"
+    },
     "44e45f99ace9f7d56adf9e0babd1173c6e8da96452d5977dafbdbd58803a0ad9": {
       "first_seen": "2026-05-04T07:58:13.665596+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/how-popsa-used-amazon-nova-to-inspire-customers-with-personalised-title-suggestions/"
@@ -1080,6 +1160,10 @@
     "45893a5e87dc462cd0fb0ffd7b71eb277d44a7b8ff4894c8d9c549d5f7a43e00": {
       "first_seen": "2026-03-09T07:24:48.491862+00:00",
       "url": "https://github.com/BankrBot/skills/commit/dc7e6ecb3bb15c680f632a9f20c9ad1562da84ca"
+    },
+    "45a6a15551bea23931a62af5da9eb7147770ca1b555388f96b347249cb6044cd": {
+      "first_seen": "2026-06-01T08:52:45.855397+00:00",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/"
     },
     "461137b59b87d7b7db16b016b27b9f6d6e7641cdd3f99681970e1c1774236637": {
       "first_seen": "2026-03-16T07:34:05.888802+00:00",
@@ -1101,6 +1185,10 @@
       "first_seen": "2026-05-04T07:58:13.665508+00:00",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/oklahoma-energy-affordability-agreement/"
     },
+    "48dcf143c193a28692101d1e5c9d5d8e4de7744e0d3fae95fd9aeb62df1dc372": {
+      "first_seen": "2026-06-01T08:52:45.855493+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore/"
+    },
     "48eb4edd3a6d93702b31e8cc1a1181fbd6cd66db143d583b7c1bc3d4a230c078": {
       "first_seen": "2026-02-10T22:01:19.996114+00:00",
       "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/"
@@ -1120,6 +1208,10 @@
     "4a74e322f3ec466aa073a1b35f47284ca83df57ffebf5dedeabdf7c0622e92a2": {
       "first_seen": "2026-05-18T08:23:13.463916+00:00",
       "url": "https://github.com/BankrBot/skills/commit/0887c72edaf0bea8e276a9cb637891b0098546d4"
+    },
+    "4ab3425d6ae9671226d5de431141cfae4830ec903b3f9fb8c4e75fe01a8e3823": {
+      "first_seen": "2026-06-01T08:52:45.855277+00:00",
+      "url": "https://medium.com/@gwrx2005/venture-capital-deployment-in-cryptocurrency-infrastructure-as-a-strategic-lever-for-artificial-f5fc5435aa32?source=rss-6552dfe1e986------2"
     },
     "4aeb16ae454ccf2ae13f6f239242705c98caf557c58354822808b09d5ede8ba5": {
       "first_seen": "2026-02-10T21:11:56.009522+00:00",
@@ -1160,6 +1252,10 @@
     "4d2868e6ddecc1630feae6eae834698e097adfbde78fcbb2f0a04ee5f26751c6": {
       "first_seen": "2026-02-10T21:11:56.009505+00:00",
       "url": "https://medium.com/@gwrx2005/remote-vehicle-assistance-rva-a-docker-based-c-software-system-for-autonomous-vehicle-remote-afcc62c3358d?source=rss-6552dfe1e986------2"
+    },
+    "4d5681cfe0728ef8539c6e3499f8050b55d42176ccbb8f823ce296840aca3c68": {
+      "first_seen": "2026-06-01T08:52:45.855364+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/b241db6522199f2c98b586c3d1822eedb1de45e5"
     },
     "4da449f9ea06843b9a5d32981f37508cde76e613633b07da8adf6a15bb2ecb81": {
       "first_seen": "2026-03-23T07:31:52.181025+00:00",
@@ -1229,6 +1325,10 @@
       "first_seen": "2026-04-20T07:38:03.482461+00:00",
       "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/"
     },
+    "509ce26e837f2681557136dca567e388586a8ca57a9b5b2ebeb78af429e63d25": {
+      "first_seen": "2026-06-01T08:52:45.855436+00:00",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/"
+    },
     "511fd68e2986feda8e20ca5bbdfb4211e0360870077e3ea30260bce6031856dd": {
       "first_seen": "2026-03-23T07:31:52.180981+00:00",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/five-ways-google-helps-you-avoid-scammers/"
@@ -1241,9 +1341,17 @@
       "first_seen": "2026-04-06T08:21:26.892634+00:00",
       "url": "https://github.com/BankrBot/skills/commit/8f3ef9afbd18b22f371d4442716ab3ee9500c566"
     },
+    "5216aeee0beb22b4b93a833156b24aa8026f2feba8b80eb557be11c3070c5622": {
+      "first_seen": "2026-06-01T08:52:45.855342+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/de4c29d7748af5fff70a1b61c64a3236dabed2e1"
+    },
     "5245761bdbefedc09447314219e15c95f2dabf888d5b0f23999abbfd5bff25f5": {
       "first_seen": "2026-03-16T07:34:05.888866+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-custom-llm-deployment-fine-tune-with-oumi-and-deploy-to-amazon-bedrock/"
+    },
+    "5284402c2d2903d9e0b57bec8798aec141efcf242d5a913d18a274684b33dede": {
+      "first_seen": "2026-06-01T08:52:45.855327+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/4fb0185f322fa78e301e500b6857d4c1d539bcc3"
     },
     "52e7601eb60dca091e9f5586962b1705ec4fd4bc8f5c83f91f9f917fba53d1b0": {
       "first_seen": "2026-03-02T07:23:32.916252+00:00",
@@ -1256,6 +1364,10 @@
     "536bab8f5739c49d6f489b2f8b0e9027e8285a43feba94202b7b8b437ac17b41": {
       "first_seen": "2026-03-02T07:23:32.916262+00:00",
       "url": "https://github.com/BankrBot/skills/commit/9c595ec63e6878befb5f6a1c621ee348c4a485af"
+    },
+    "53b1293464008a21f312c6e026e81b9f544b7ef3a688488ec91f2c3aedec9a53": {
+      "first_seen": "2026-06-01T08:52:45.855387+00:00",
+      "url": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/"
     },
     "53f0d8197722aa9cfb60428cebc1673c5f02d4be74177cecf63bfd50182378af": {
       "first_seen": "2026-05-11T08:12:08.702231+00:00",
@@ -1296,6 +1408,10 @@
     "565f5b403d11f3d8c88b66da1e5f592f78c913f709dabed5bee37f4a4f66b024": {
       "first_seen": "2026-04-13T07:37:22.377472+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences/"
+    },
+    "568dae987126021db3c86ce3d281c97302ef2ac1349203ddb3fc21bf7634a4a0": {
+      "first_seen": "2026-06-01T08:52:45.855487+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/"
     },
     "56e7c30d977cb240226d812d4e607063a773cb1de22139b40f91baf897e3f422": {
       "first_seen": "2026-04-13T07:37:22.377360+00:00",
@@ -1453,6 +1569,10 @@
       "first_seen": "2026-05-18T08:23:13.464063+00:00",
       "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/repliqa-quantum-computing-life-sciences/"
     },
+    "602e72fff9d1ab5a0d531b7744c58ae3eabc77a78d3e0898e3f406224874283d": {
+      "first_seen": "2026-06-01T08:52:45.855449+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/"
+    },
     "6039aa8622d9649bbb6b2586aeef1640ac34853a6a2a8201d1912e4b702ead1c": {
       "first_seen": "2026-04-13T07:37:22.377350+00:00",
       "url": "https://github.com/BankrBot/skills/commit/83a18372edecca3274bd351bd4faa055b19bb7dd"
@@ -1464,6 +1584,10 @@
     "60803fe8a4057bf79c184299983cd72baea89297710e594111f9d3d090180af0": {
       "first_seen": "2026-02-23T07:26:58.431214+00:00",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m8azn-instances-new-open-weights-models-in-amazon-bedrock-and-more-february-16-2026/"
+    },
+    "60a426ea1cff93519e687706599bac748d5acadae0881b7f84d68ff47da98618": {
+      "first_seen": "2026-06-01T08:52:45.855361+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/3fa7687a015c937a388bc0e914bef749e81cb6c2"
     },
     "61638171c7f164eb222ccefe90bc5145729b49e61029da2ac3db752f42dab644": {
       "first_seen": "2026-04-27T07:49:33.349075+00:00",
@@ -1588,6 +1712,10 @@
     "69a004abfd82b22f5250d1dcc9b0f4aee6805f36c6de3a088bc007744614ce54": {
       "first_seen": "2026-05-18T08:23:13.463978+00:00",
       "url": "https://github.com/BankrBot/skills/commit/3d8dd05eef46642a2de204356aaefde72d3c7d3b"
+    },
+    "69e96b3bca3cfb5ffa61c2da02abd5f9913c80d9ed7db0ff664e3e42133e5942": {
+      "first_seen": "2026-06-01T08:52:45.855336+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/c4970a38e4a630e38a5e226dde59264e7094abc6"
     },
     "6a10bd25b21fd58148dcb0e93953713f6e5a2c0cb5683f177133962954c218b6": {
       "first_seen": "2026-05-04T07:58:13.665416+00:00",
@@ -1865,6 +1993,10 @@
       "first_seen": "2026-04-13T07:37:22.377377+00:00",
       "url": "https://www.microsoft.com/en-us/research/podcast/ideas-steering-ai-toward-the-work-future-we-want/"
     },
+    "7c2ec291916280d2ea13f872de83a38820cfe439093df221b77075bcffa23989": {
+      "first_seen": "2026-06-01T08:52:45.855314+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/4354f3a629fe436a49ad32094d8eda5e56c178b7"
+    },
     "7d01c7bd272943a32e4086fac8250565512cd59132b883781f93c77724f6a2f2": {
       "first_seen": "2026-05-25T08:33:08.488764+00:00",
       "url": "https://github.com/BankrBot/skills/commit/773f4b6dc34528aa37056508b9bdbcc466fa8c91"
@@ -1928,6 +2060,14 @@
     "81602125bc9e0ddeb5a3e7d25847cc53c800f2a1e51f3d726163ab4236ee50c5": {
       "first_seen": "2026-04-13T07:37:22.377412+00:00",
       "url": "https://blog.google/products-and-platforms/products/chrome/new-chrome-productivity-features/"
+    },
+    "81631fc660ca46b6ce790e2dafcb09c308881b559186fc4c89ab26c22fc69ff9": {
+      "first_seen": "2026-06-01T08:52:45.855419+00:00",
+      "url": "https://blog.google/innovation-and-ai/products/notebooklm/notebooklm-google-io-2026/"
+    },
+    "816e46c6bcfc4dcc35371ba3e6808862006d39e5fef19e50b9811e29c6c056e1": {
+      "first_seen": "2026-06-01T08:52:45.855310+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/93da7dfde5c828b15969b1f61112c5dad4bb4d48"
     },
     "819616a737a368310a96bd80b0427cf646d5eeca728e3099acdceedf2b537f46": {
       "first_seen": "2026-05-11T08:12:08.702261+00:00",
@@ -2157,9 +2297,17 @@
       "first_seen": "2026-03-30T08:20:59.286861+00:00",
       "url": "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/"
     },
+    "9265e8a6088caaac82584dd2a8855eb6cb47f08d7cfeda2a34feb4cc7d246992": {
+      "first_seen": "2026-06-01T08:52:45.855374+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/64fd59a67b21d8800781a33f323ab55f4cd78bd2"
+    },
     "92824db05fd2cdb59b5ed41d9ca9df6561aaffb7e1af5716e79767793b7f6e34": {
       "first_seen": "2026-03-02T07:23:32.916455+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/how-sonrai-uses-amazon-sagemaker-ai-to-accelerate-precision-medicine-trials/"
+    },
+    "92b1d33f49db64c667772f3595355201abb82b73a1b64cfbb12989968ea04d0f": {
+      "first_seen": "2026-06-01T08:52:45.855442+00:00",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/"
     },
     "92d0f581bc8cab644d30e823bdacc424afec0ed055aabbd55d7e3fb2860fe0a1": {
       "first_seen": "2026-05-04T07:58:13.665441+00:00",
@@ -2200,6 +2348,10 @@
     "950565d99af87b35315b6abb0f715dd9f7d8179763c050b62a1d71d85eae409d": {
       "first_seen": "2026-04-20T07:38:03.482487+00:00",
       "url": "https://blog.google/products-and-platforms/products/maps/new-ways-were-protecting-businesses-on-maps/"
+    },
+    "952e93f8af7bdc4db9c68a53b8e44cac12b6ee77132a908b2ede7c2b827dab7e": {
+      "first_seen": "2026-06-01T08:52:45.855404+00:00",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/"
     },
     "96b521869e71ed29ff39d1bff0e617f0ff1150697386d807daf77e530bac45c5": {
       "first_seen": "2026-03-09T07:24:48.491884+00:00",
@@ -2297,6 +2449,10 @@
       "first_seen": "2026-05-25T08:33:08.488835+00:00",
       "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/"
     },
+    "9be9f10f6b07d4e6276bbcfcfc0ecf5e6ad8369538bdd4cabae2ba7183b2a812": {
+      "first_seen": "2026-06-01T08:52:45.855452+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/"
+    },
     "9c0ccc37b0255a02bbfc930152ea9fce3b822d15407c952ce86cf4333aeed062": {
       "first_seen": "2026-03-16T07:34:05.888746+00:00",
       "url": "https://github.com/BankrBot/skills/commit/e50c495cc550ea9954d9efb4c5161b107625f66f"
@@ -2332,6 +2488,10 @@
     "9e8766e62b20a9a42c1bd5fde5c489dfa9ffeeefed05911ae0e1ac55b7ee258b": {
       "first_seen": "2026-03-23T07:31:52.181065+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/"
+    },
+    "9e8b89e3267a423a3e298862862047eced52f25b8d7da99c423552c184f0b5f1": {
+      "first_seen": "2026-06-01T08:52:45.855306+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/810ecee77d506abcb5002014aeedb4aa74207e7a"
     },
     "9f1d2a31773519fd2d9f6ade2a0001e136ccf6e9d87e3ab218badeb7004f0b82": {
       "first_seen": "2026-02-10T22:01:19.996120+00:00",
@@ -2416,6 +2576,10 @@
     "a478e324cae84dc15ed2fd5a5ac71e851ac3aa278b4a41ef53f851f71733596f": {
       "first_seen": "2026-03-23T07:31:52.180937+00:00",
       "url": "https://github.com/BankrBot/skills/commit/0a12bec57325270de8ed980cef167cf46e847353"
+    },
+    "a4c9c059b8fc8ea29dc0fb4084d92e7186c67a40fe3772307d80d0736398c3af": {
+      "first_seen": "2026-06-01T08:52:45.855428+00:00",
+      "url": "https://blog.google/products-and-platforms/products/google-health/connect-data-across-devices/"
     },
     "a4d92e0d3c56128b70888aa2848bd14450ad2bba067b6f5b0049ccdde8be94d4": {
       "first_seen": "2026-05-18T08:23:13.464060+00:00",
@@ -2505,6 +2669,10 @@
       "first_seen": "2026-05-11T08:12:08.702317+00:00",
       "url": "https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search/"
     },
+    "aaf09180cd048506752b287c25635a4b0b3fe456867bef854eb9b6084852d6ee": {
+      "first_seen": "2026-06-01T08:52:45.855463+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-test-suite-that-grows-with-your-agent-with-dataset-management-in-amazon-bedrock-agentcore/"
+    },
     "ab314b14e29274594ef0ebf6404ecf10f353142091a0dcc702c3bac3ee3989f6": {
       "first_seen": "2026-04-06T08:21:26.892768+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/"
@@ -2577,6 +2745,10 @@
       "first_seen": "2026-04-06T08:21:26.892628+00:00",
       "url": "https://github.com/BankrBot/skills/commit/c0476e12b89b9875f902a1b8cf8beb1a70b3d728"
     },
+    "af19cb2f36a39c341929319e1e5d2d5e8fc913ec0cdc4d25e5c38da200d7be73": {
+      "first_seen": "2026-06-01T08:52:45.855351+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/d1989adc78b60fd47f5a269fd35c0673978aa9f4"
+    },
     "af3f84831a7312ab506e3859ce5e35233c8b66734194bf02bdf5deff40e6527a": {
       "first_seen": "2026-05-11T08:12:08.702216+00:00",
       "url": "https://github.com/BankrBot/skills/commit/fde77a7e51e5e7c7daacb02caaf0d3bb60d52504"
@@ -2593,6 +2765,10 @@
       "first_seen": "2026-05-04T07:58:13.665558+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/aws-generative-ai-model-agility-solution-a-comprehensive-guide-to-migrating-llms-for-generative-ai-production/"
     },
+    "afdbf0649fcd31cbc4e2d617e655bc1dcf037ba90fb9a1aa4b4597276259b8a5": {
+      "first_seen": "2026-06-01T08:52:45.855422+00:00",
+      "url": "https://blog.google/waze/drive-with-ziggy-marley-on-waze/"
+    },
     "b02cbc72f38524d40753884963c2d05c5612a11a87e54ca50aed2029ee14900a": {
       "first_seen": "2026-05-18T08:23:13.464122+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai/"
@@ -2604,6 +2780,10 @@
     "b0799bca57881518f18885da34f01ae8d2e13a2edbfd7abb3b74d604f1b0b771": {
       "first_seen": "2026-03-30T08:20:59.286931+00:00",
       "url": "https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/"
+    },
+    "b0893ed133b0fe3547b0b9cfb3258df99edc2dc0eddf79cccdd9f1d2345bfa18": {
+      "first_seen": "2026-06-01T08:52:45.855469+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai/"
     },
     "b0d58ae825973837bb99351a6e3f8b5cdd0072aaa080c6cd6b3c2e839a210f86": {
       "first_seen": "2026-02-23T07:26:58.431182+00:00",
@@ -2624,6 +2804,10 @@
     "b1ad47cc6a66e388fc84b9667d88cd0bdcc32c734c3de20b2e412b96d2deaedf": {
       "first_seen": "2026-03-23T07:31:52.180978+00:00",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-research/"
+    },
+    "b1eb05743ee0b9eae6f5d32ba86ee9ddf3659da4df286ad4c19a8eafd8be6227": {
+      "first_seen": "2026-06-01T08:52:45.855401+00:00",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/"
     },
     "b1f234af4939244e8fa9580f46dbb1d2cdc5ef247a738db9c83fef3a0da19099": {
       "first_seen": "2026-04-13T07:37:22.377290+00:00",
@@ -2656,6 +2840,10 @@
     "b3cadcd552b64234dd35e9936c183232cc98a147c42c0b00d08398b34eecdb79": {
       "first_seen": "2026-04-06T08:21:26.892690+00:00",
       "url": "https://blog.google/products-and-platforms/products/youtube/watch-coachella-live-on-youtube/"
+    },
+    "b3e9aeefe310c05b429174464c97c08a78097e7bf78c92acd5f969ba57ba22dd": {
+      "first_seen": "2026-06-01T08:52:45.855482+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-aws-smgs-uses-an-ai-powered-conversational-assistant-to-transform-business-management-with-amazon-bedrock-agentcore/"
     },
     "b3fa80ef9ec5c2af69ffc7965c3f65574d15675e679e4907f610cf04534351bc": {
       "first_seen": "2026-03-09T07:24:48.491814+00:00",
@@ -2709,6 +2897,10 @@
       "first_seen": "2026-05-04T07:58:13.665468+00:00",
       "url": "https://github.com/BankrBot/skills/commit/ab4077cb272ffd34cc54a240dbd83aaa4cfd7a56"
     },
+    "b67979943228815833c9db2c5c9ac871db8d1e5e886e3e98ec1efc06a33c7219": {
+      "first_seen": "2026-06-01T08:52:45.855485+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore/"
+    },
     "b684756e47dd994f07d67c7316e0ae950e081daa43d5d32097d34fd0548f5568": {
       "first_seen": "2026-05-25T08:33:08.488912+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/"
@@ -2716,6 +2908,10 @@
     "b6c29c5787f09559ba1b06d780f9e4826dd4853b159a503928beb779ce99752d": {
       "first_seen": "2026-04-13T07:37:22.377409+00:00",
       "url": "https://blog.google/products/ads-commerce/retail-sales-ai/"
+    },
+    "b708aa522dcd7e59bb76b8614de831b6e8858c54dc67dabc92dcaef22043141e": {
+      "first_seen": "2026-06-01T08:52:45.855290+00:00",
+      "url": "https://medium.com/@gwrx2005/the-rise-of-publicly-traded-crypto-investment-products-a-comparative-analysis-of-spot-bitcoin-and-f600bdb063f7?source=rss-6552dfe1e986------2"
     },
     "b70e95ebf8f177f817b6897cc1734f10cf6c8d9e0d83bd6914a098d51b42cea3": {
       "first_seen": "2026-03-16T07:34:05.888727+00:00",
@@ -2736,6 +2932,10 @@
     "b7f4e11c91dfefcc3f05c663603ca0cac1fc2e9f512e056ab90fa44c164cb4f0": {
       "first_seen": "2026-04-13T07:37:22.377491+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/"
+    },
+    "b828038243b54e5ef97cd7ed7b75145cfc92ab6a9a4d9339e76939813f53cc90": {
+      "first_seen": "2026-06-01T08:52:45.855425+00:00",
+      "url": "https://blog.google/products/ads-commerce/google-display-ads-demand-gen/"
     },
     "b8579ebfbfaed56af0a25855eeace39e29094c74ff065c545cc5c0b4005f6e2f": {
       "first_seen": "2026-03-16T07:34:05.888782+00:00",
@@ -2852,6 +3052,10 @@
     "c27af4fa9427ebf05998391b383aea05cd30c002f2822b42d87ac71b31c3e133": {
       "first_seen": "2026-04-06T08:21:26.892652+00:00",
       "url": "https://github.com/BankrBot/skills/commit/9ab71f27c98e21a4b7c7f02cca1f906d3951cd24"
+    },
+    "c28700533ecdff789e3a29f2f4f997a162757a361dd70527157f8a57fffacbed": {
+      "first_seen": "2026-06-01T08:52:45.855496+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents/"
     },
     "c29798e5b69a77da3f9ba775944f633dee5f803b762e801cff5f3ae2944f26fa": {
       "first_seen": "2026-02-10T21:11:56.009541+00:00",
@@ -2996,6 +3200,10 @@
     "cbdeb3569af2453864a666b6281db0a9abdd4b8f6df4b0e6623be4e3c67d85e1": {
       "first_seen": "2026-03-02T07:23:32.916291+00:00",
       "url": "https://github.com/BankrBot/skills/commit/b94fb0043a9d962a2b1b9b1fb2d34b0e758a8399"
+    },
+    "cbf0d1799555e33cab803e950d0b0abed7282961425f472f510d760eba609724": {
+      "first_seen": "2026-06-01T08:52:45.855355+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/acb0175cd0fd2c416734e45be9a61120a111529d"
     },
     "cc62d4fbace6c5b7ff430d4aa8e5ff146d16758a7c741d117a3eb17d27a75625": {
       "first_seen": "2026-04-13T07:37:22.377306+00:00",
@@ -3185,6 +3393,10 @@
       "first_seen": "2026-05-18T08:23:13.464079+00:00",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agentcore-payments-agent-toolkit-for-aws-and-more-may-11-2026/"
     },
+    "d8d2dfe014a22ea4799bbac3fc6cbe5175ef55db4a260198b03703f2e12730bf": {
+      "first_seen": "2026-06-01T08:52:45.855455+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/"
+    },
     "d985e089a5af82b3102c95d375321d1ad3a1906c3dbabe6ca437a0bebd957af8": {
       "first_seen": "2026-04-06T08:21:26.892669+00:00",
       "url": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/"
@@ -3221,6 +3433,10 @@
       "first_seen": "2026-02-10T22:01:19.996029+00:00",
       "url": "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/"
     },
+    "dc32ea2a0102d56bb982b7d9e896bf5d9a5a53cb913bbd380dd433042a479682": {
+      "first_seen": "2026-06-01T08:52:45.855345+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/b518512f1503d77df54fbb4bcd745c71d61a3b15"
+    },
     "dc8facc71a272aa27d08c4860a2068875248ab91a6ac616641e5cbef1271ee1c": {
       "first_seen": "2026-02-10T22:01:19.996182+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-generative-ai-models-with-an-amazon-nova-rubric-based-llm-judge-on-amazon-sagemaker-ai-part-2/"
@@ -3249,6 +3465,14 @@
       "first_seen": "2026-04-13T07:37:22.377321+00:00",
       "url": "https://github.com/BankrBot/skills/commit/6e059b4bfafb23cd591dbf6c1993a7e31a8957d0"
     },
+    "ded69b3ca98c0468212036010ce572a35b28961cf7ee26a68f2cbe1fd4241f6c": {
+      "first_seen": "2026-06-01T08:52:45.855333+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/864b4381af3e3e4ec5e186dd9f3da82d59161409"
+    },
+    "def9057571b3fae3c5f62781a38a70e54769bf9c19242b2ab7207141b7276807": {
+      "first_seen": "2026-06-01T08:52:45.855380+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/e6fb5ba6cfe05e5ee3af48ac6f9dfc38063d8f14"
+    },
     "df172cfe85a1576da47783a4bb2069587946368150b755b2bf52e99a66bbad98": {
       "first_seen": "2026-05-18T08:23:13.464021+00:00",
       "url": "https://blog.google/products-and-platforms/products/youtube/youtube-brandcast-2026-advertiser-updates/"
@@ -3272,6 +3496,10 @@
     "e021c67a127104516f5a98551d714a74a666c1bf0762812db027cbabe2ecfe57": {
       "first_seen": "2026-04-13T07:37:22.377341+00:00",
       "url": "https://github.com/BankrBot/skills/commit/9b3c9eefc4a41e51a3c4141fe2698cc1f0c54265"
+    },
+    "e082b2e7d303c051b284610c5af88ebfad3ff84238a7c393d5c0469754031fd5": {
+      "first_seen": "2026-06-01T08:52:45.855391+00:00",
+      "url": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/"
     },
     "e1126f0e1729f7e2874f1c7498d5021e06445637bc018edbb56b965bd806e357": {
       "first_seen": "2026-02-23T07:26:58.431198+00:00",
@@ -3396,6 +3624,10 @@
     "e811544b3fcab12e8f37c6881b33ae7ab1588c2b6b2644baa149f66933a79747": {
       "first_seen": "2026-02-10T22:01:19.996168+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/new-relic-transforms-productivity-with-generative-ai-on-aws/"
+    },
+    "e8a631299cb6916dd671e3cc138f312d4ff4c97017f5acbb46114551d380ab55": {
+      "first_seen": "2026-06-01T08:52:45.855416+00:00",
+      "url": "https://blog.google/products-and-platforms/products/search/original-high-quality-content-search/"
     },
     "e9643448a187b9957115ad1a9c1c55c974a70f2229807e72a0156550faf42534": {
       "first_seen": "2026-02-10T22:01:19.996043+00:00",
@@ -3557,6 +3789,10 @@
       "first_seen": "2026-05-11T08:12:08.702258+00:00",
       "url": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/"
     },
+    "f37e72e52ada93cd4aaf0ba0266ce48d8db8a6934da2dad90e14fb770bc21e36": {
+      "first_seen": "2026-06-01T08:52:45.855339+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/6e26bedc0aea5249fe1049d274ad5c12016858ea"
+    },
     "f3d0c2704d8f0f37cbd36772f1f3f8395916d7a7dbb0ca8e01be2e1205a621b3": {
       "first_seen": "2026-03-16T07:34:05.888860+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-nvidia-nemotron-speech-asr-on-amazon-ec2-for-domain-adaptation/"
@@ -3653,6 +3889,10 @@
       "first_seen": "2026-03-16T07:34:05.888854+00:00",
       "url": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/"
     },
+    "fa62f0f7b6acfd3f3fa2377467a45485f360107d0198bc753549f965715f0018": {
+      "first_seen": "2026-06-01T08:52:45.855502+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-observability-solution-for-amazon-quick/"
+    },
     "faab312b5859ab2a96a1da49c2fb20315c3fe7ebbc925b14153855f5e8a1a518": {
       "first_seen": "2026-03-30T08:20:59.286925+00:00",
       "url": "https://blog.google/company-news/inside-google/fast-company-innovative-companies/"
@@ -3676,6 +3916,10 @@
     "fbb079a664894fce368e66718e2501dae0ab152460a03765bce83a7cf1289c19": {
       "first_seen": "2026-02-10T22:01:19.996096+00:00",
       "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/"
+    },
+    "fbddc18afd8079117cd3fe0acfb941f04b6eae51d19652a23d93d9c01f93aa60": {
+      "first_seen": "2026-06-01T08:52:45.855478+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/"
     },
     "fc6cac00d30da17c2939a00737f7bfef1f7b18e0357f341a781ca4440de75cf1": {
       "first_seen": "2026-04-20T07:38:03.482502+00:00",
@@ -3709,6 +3953,10 @@
       "first_seen": "2026-02-14T07:19:35.462711+00:00",
       "url": "https://medium.com/@gwrx2005/holonomic-topological-networks-for-short-horizon-cryptocurrency-price-forecasting-an-empirical-a7c51d72b100?source=rss-6552dfe1e986------2"
     },
+    "fd81249357b629df92ad4410f8a7893a51923dd464954d37b738aad9288c2638": {
+      "first_seen": "2026-06-01T08:52:45.855434+00:00",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/"
+    },
     "fdbb2db2316792f89204535189fe08b8181a5d3168ced6591eccbec655b72c82": {
       "first_seen": "2026-05-25T08:33:08.488866+00:00",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/"
@@ -3716,6 +3964,10 @@
     "fddcdcfb0ad46ae2885213151abd36ed07351683d473a95666c1bf0a5eae2272": {
       "first_seen": "2026-05-18T08:23:13.463941+00:00",
       "url": "https://github.com/BankrBot/skills/commit/dfe8fd90e0c0696560b06e1ae49b82f352969d11"
+    },
+    "fe30ff1908ac8a08c74e308d6bdbd3037cedb4764364c1e0e32694d5aeac8aea": {
+      "first_seen": "2026-06-01T08:52:45.855367+00:00",
+      "url": "https://github.com/BankrBot/skills/commit/cf9c4bac2d6a5b1445479dc6874e3fc0bd8fd188"
     },
     "fe4cdde51db320559ce50756ad7675fcd7e381a4b7c70d9af3c0309774b4cdec": {
       "first_seen": "2026-02-10T22:01:19.996138+00:00",
